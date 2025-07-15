@@ -10,7 +10,7 @@ Esta carpeta contiene una implementación completa de la API REST en Node.js/Exp
 - **Joi** - Validación de datos
 - **CORS + Helmet** - Seguridad
 - **Fake Data** - Para testing sin BD
-
+//
 ## 🚀 Instalación Rápida
 
 ```bash
