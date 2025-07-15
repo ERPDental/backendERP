@@ -72,3 +72,4 @@ htmlcov/
 # Migrations (uncomment if you want to ignore migrations)
 # */migrations/
 # !*/migrations/__init__.py
+nodejs-api/.env
